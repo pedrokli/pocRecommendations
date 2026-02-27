@@ -1,0 +1,13 @@
+entity.id,entity.name,entity.categoryId,entity.value
+SKU123,Camiseta Preta,Roupas,79.90
+SKU234,Camiseta Branca,Roupas,79.91
+SKU235,Calça vermelha,Roupas,79.92
+SKU236,Meia Preta,Roupas,79.93
+SKU237,Meia Branca,Roupas,79.94
+SKU238,Cueca azul,Roupas,79.95
+SKU239,Calcinha rosa,Roupas,79.96
+SKU240,Blusa verde,Roupas,79.97
+SKU241,Blusa roxa,Roupas,79.98
+SKU242,Cinto preto,Acessórios,79.99
+SKU243,Cinto branco,Acessórios,79.100
+SKU244,Cinto cinza,Acessórios,79.101
